@@ -18,3 +18,10 @@ How about the card you hate the most? Or even better, the card that the opponent
 
 3. What if my opponent lies about not having a suit?
 This is a game of perfect information - both players can guess the other's cards. In the beginning of the game, what you don't have, your opponent does. For clarify, this game is designed such that the computer will (happily) show you all her cards, at all times. However, you can choose not to show your cards.
+
+# How to install
+
+It's very simple; download all files to a folder and run `python driver.py` from shell.
+
+## Requirements
+python2.7 (get it [here](https://www.python.org/download/releases/2.7/))
